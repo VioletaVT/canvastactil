@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-family: 'Lily Script One', cursive !important;
+}
+
+body{
+    background-color: hotpink !important;
+}
+
+canvas{
+    background-color: floralwhite;
+    border: 9px gold groove;
+}
